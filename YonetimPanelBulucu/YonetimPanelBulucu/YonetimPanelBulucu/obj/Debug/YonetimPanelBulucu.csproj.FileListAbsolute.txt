@@ -1,0 +1,18 @@
+C:\Users\Mehmet\Documents\OtomasyonMalzemeleri\YonetimPanelBulucu\YonetimPanelBulucu\bin\Debug\YonetimPanelBulucu.exe.config
+C:\Users\Mehmet\Documents\OtomasyonMalzemeleri\YonetimPanelBulucu\YonetimPanelBulucu\bin\Debug\YonetimPanelBulucu.exe
+C:\Users\Mehmet\Documents\OtomasyonMalzemeleri\YonetimPanelBulucu\YonetimPanelBulucu\bin\Debug\YonetimPanelBulucu.pdb
+C:\Users\Mehmet\Documents\OtomasyonMalzemeleri\YonetimPanelBulucu\YonetimPanelBulucu\obj\Debug\YonetimPanelBulucu.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet\Documents\OtomasyonMalzemeleri\YonetimPanelBulucu\YonetimPanelBulucu\obj\Debug\YonetimPanelBulucu.Form1.resources
+C:\Users\Mehmet\Documents\OtomasyonMalzemeleri\YonetimPanelBulucu\YonetimPanelBulucu\obj\Debug\YonetimPanelBulucu.Properties.Resources.resources
+C:\Users\Mehmet\Documents\OtomasyonMalzemeleri\YonetimPanelBulucu\YonetimPanelBulucu\obj\Debug\YonetimPanelBulucu.csproj.GenerateResource.Cache
+C:\Users\Mehmet\Documents\OtomasyonMalzemeleri\YonetimPanelBulucu\YonetimPanelBulucu\obj\Debug\YonetimPanelBulucu.exe
+C:\Users\Mehmet\Documents\OtomasyonMalzemeleri\YonetimPanelBulucu\YonetimPanelBulucu\obj\Debug\YonetimPanelBulucu.pdb
+D:\3.EĞİTİM DÖKÜMANLARI\Yazılım11\9.Diğer\YonetimPanelBulucu\YonetimPanelBulucu\YonetimPanelBulucu\bin\Debug\YonetimPanelBulucu.exe.config
+D:\3.EĞİTİM DÖKÜMANLARI\Yazılım11\9.Diğer\YonetimPanelBulucu\YonetimPanelBulucu\YonetimPanelBulucu\obj\Debug\YonetimPanelBulucu.exe
+D:\3.EĞİTİM DÖKÜMANLARI\Yazılım11\9.Diğer\YonetimPanelBulucu\YonetimPanelBulucu\YonetimPanelBulucu\obj\Debug\YonetimPanelBulucu.pdb
+D:\3.EĞİTİM DÖKÜMANLARI\Yazılım11\9.Diğer\YonetimPanelBulucu\YonetimPanelBulucu\YonetimPanelBulucu\bin\Debug\YonetimPanelBulucu.exe
+D:\3.EĞİTİM DÖKÜMANLARI\Yazılım11\9.Diğer\YonetimPanelBulucu\YonetimPanelBulucu\YonetimPanelBulucu\bin\Debug\YonetimPanelBulucu.pdb
+D:\3.EĞİTİM DÖKÜMANLARI\Yazılım11\9.Diğer\YonetimPanelBulucu\YonetimPanelBulucu\YonetimPanelBulucu\obj\Debug\YonetimPanelBulucu.csprojResolveAssemblyReference.cache
+D:\3.EĞİTİM DÖKÜMANLARI\Yazılım11\9.Diğer\YonetimPanelBulucu\YonetimPanelBulucu\YonetimPanelBulucu\obj\Debug\YonetimPanelBulucu.Form1.resources
+D:\3.EĞİTİM DÖKÜMANLARI\Yazılım11\9.Diğer\YonetimPanelBulucu\YonetimPanelBulucu\YonetimPanelBulucu\obj\Debug\YonetimPanelBulucu.Properties.Resources.resources
+D:\3.EĞİTİM DÖKÜMANLARI\Yazılım11\9.Diğer\YonetimPanelBulucu\YonetimPanelBulucu\YonetimPanelBulucu\obj\Debug\YonetimPanelBulucu.csproj.GenerateResource.Cache
